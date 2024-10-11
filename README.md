@@ -30,5 +30,5 @@ The objective of the game is to correctly repeat the sequence of button flashes 
 
 ==> Leveling Up:
 
--With each correct sequence, the player advances to the next level, and the game adds another button to the sequence.
+- With each correct sequence, the player advances to the next level, and the game adds another button to the sequence.
 
