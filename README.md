@@ -1,5 +1,5 @@
 
-# Siman Game 
+# Siman GamE
 
 Play and test your memory!! 
 
